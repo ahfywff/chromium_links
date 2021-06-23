@@ -1,3 +1,3 @@
-- [https://chromium.org](https://chromium.org)
-- [https://blog.chromium.org](https://blog.chromium.org)
-- [https://bugs.chromium.org](https://bugs.chromium.org)
+- <a href="https://chromium.org" target="_blank">https://chromium.org</a> </br>
+- <a href="https://blog.chromium.org" target="_blank">https://blog.chromium.org</a> </br>
+- <a href="https://bugs.chromium.org" target="_blank">https://bugs.chromium.org</a> </br>
