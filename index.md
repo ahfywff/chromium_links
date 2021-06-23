@@ -1,1 +1,3 @@
-- [https://bugs.chromium.org/](https://bugs.chromium.org/)
+- [https://chromium.org](https://chromium.org)
+- [https://blog.chromium.org](https://blog.chromium.org)
+- [https://bugs.chromium.org](https://bugs.chromium.org)
