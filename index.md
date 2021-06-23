@@ -1,1 +1,1 @@
-- https://bugs.chromium.org/
+- [https://bugs.chromium.org/](https://bugs.chromium.org/)
